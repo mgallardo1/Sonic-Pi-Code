@@ -1,8 +1,6 @@
 # Welcome to Sonic Pi v3.1
-charizard = "C:/Users/miguel_gallardo/Documents/Audacity/Charizard.wav"
 use_bpm 194
 use_synth :blade
-sample charizard
 sleep 17.54
 play :D4
 play :A3
